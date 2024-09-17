@@ -2,7 +2,6 @@
 
 Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
 
-- **Demo**: [Open live demo][live-demo]
 - **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
 
 &nbsp;
