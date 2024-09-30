@@ -34,8 +34,6 @@ npm run dev
 
 ## How to use your project
 
-To edit the content of this project, go to [prismic.io/dashboard](https://prismic.io/dashboard), click on the repository for this website, and start editing.
-
 ### Create a page
 
 To create a page, click on the green pencil icon, then select **Page**.
