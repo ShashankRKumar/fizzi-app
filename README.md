@@ -1,13 +1,18 @@
-# Prismic + Next.js Minimal Starter
+# Fizzi Website - Final code
 
-Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
+This is the final code for the YouTube tutorial course where we build a 3D animated e-commerce landing page for the fictional soda brand, Fizzi!
 
+<<<<<<< Updated upstream
 - **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
+=======
+For more information and to watch the course go to the [course documentation](https://dub.sh/fizzi).
+>>>>>>> Stashed changes
 
-&nbsp;
+## Skip the tutorial and launch the site
 
-![Website screenshot](https://user-images.githubusercontent.com/31219208/228821412-fdde92b2-c13c-4287-b799-611fa96a5fd6.png)
+If you don’t want to go through the tutorial, but want your own version of the website deployed on Prismic, follow these directions:
 
+<<<<<<< Updated upstream
 &nbsp;
 
 ## 🚀 Quick Start
@@ -92,3 +97,20 @@ This project includes an application called Slice Machine, which generates model
 
 If you change or add to your Custom Types, you'll need to update your route handling to match. To learn how to do that, read [Define Paths in Next.js](https://prismic.io/docs/technologies/define-paths-nextjs).
 
+=======
+1. Clone the code:
+    
+    ```tsx
+    npx @slicemachine/init@latest --starter course-fizzi-next
+    ```
+    
+2. Open the Prismic repository and select “English - United States”.
+3. Run the content set up script:
+    
+    ```tsx
+    npm run set-up-content
+    ```
+    
+4. Open the migration release and publish it. A URL will be printed on the screen.
+5. Set up the slice simulator URL: `http://localhost:3000/slice-simulator`
+>>>>>>> Stashed changes
